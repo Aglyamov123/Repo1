@@ -1,0 +1,26 @@
+{
+  "name": "Erik Alexander",
+  "age": 54,
+  "address": {
+    "street": "Zekwi Street",
+    "city": "Relultub",
+    "state": "UT",
+    "zip": "43622"
+  },
+  "contact": {
+    "phone": "(957) 229-5626",
+    "servicePhone": "800574338"
+  },
+  "birthday": "1986-11-15T12:09:46.369Z",
+  "ip": "8.13.83.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Fonce igerulkef kib nusicura sizide kojtoor putu idozigo mu heuso kolavvuv gogub ivo jij epvut ap ko teforvum. Mi sokkoku afozim nokovaj eh hepbaw me sebagi ijfu hawe owzah odalewa rofakupa eziwiahu zulco wej vo guva. Pak vizip ibe fiawgu op selub lo nutki bikce ro geppe ja. Ruuhisi aja foni ikruwna siadced vitu jegbiw zucima uw onuujede tefa efe.",
+    "bio": "Uwimuz hedfus maepo kudja taviv tugacu vatkukseh taf ikasiv voej puvirja ju jaodsa. Duk bome ve hegku oci lir birubuhe nebhupe pucsarred ejeve ru vefibwec uhi usa el. Var hoj wazlictu kumaw cirepto gadambu osotugeg va dogmotpov tehib tavothuc uklu."
+  },
+  "apiKey": "3ec0c858d2bbbce941dc05f25691214514427b365f916a4d03a80717c865b0a0",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
