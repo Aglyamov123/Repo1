@@ -1,0 +1,26 @@
+{
+  "name": "Randy Holt",
+  "age": 52,
+  "address": {
+    "street": "Petped Lane",
+    "city": "Obfaije",
+    "state": "MA",
+    "zip": "57436"
+  },
+  "contact": {
+    "phone": "(289) 835-4419",
+    "servicePhone": "800566131"
+  },
+  "birthday": "2005-04-07T12:12:53.424Z",
+  "ip": "227.162.74.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Gelifoseb efvi egimu mituwra gurellu rowmomak mirjuc bupec buh wan vapah nofo. Koti werapru si lun pu lumib jebantas jowus joz do gakopwi sik fu cijvol ri bek. Hud boot rupab wergejom bidiri newvebi vohzohjop wilam zeve wuzug dofhios ibore jugigig.",
+    "bio": "Ud nazuhgun do suunezul cihewaho wavajet lafcap wasoaho merusje koelic be rug fade abo. Wu di rikuctol ra ipidepze te fa ja meew juc nolabalat si mubi itukabvam. Jable ti tetna tadi maari jiuwuli ke iregan pegehohi nibesi dojbetla jajinain vo jaz lon."
+  },
+  "apiKey": "46fa02e449096925e11eddae85798801da3927ef2eb38a409034633676216731",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
