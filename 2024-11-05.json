@@ -1,0 +1,26 @@
+{
+  "name": "Paul Cox",
+  "age": 63,
+  "address": {
+    "street": "Fajdi Place",
+    "city": "Bazfehad",
+    "state": "WV",
+    "zip": "56975"
+  },
+  "contact": {
+    "phone": "(566) 513-1190",
+    "servicePhone": "800489663"
+  },
+  "birthday": "1969-09-21T12:51:52.965Z",
+  "ip": "6.135.167.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Pepaug momjevu lab majrul hoinjop hapuvjes wi isiloeh ojof acune laol novaglo wokaz sut emafohcuf casofin. Ugioz lehunab gaptu kewfog didahiw lubutruc zaho ul da woplo ve olbufal uredu miero. Ubebo nifdukdol fa wag wim cabewso fu vipocke zedi hinipipuh gifmu vosfo ohudi incom daregza.",
+    "bio": "Mirnedu bud esatuluc ziihso uzu sus ahusuh hagadva zo katterloz ap loj kaftide merkoale. Kaukma oza wot zi wuh neb val avawput vocewre kurufi rebekeru tovbacuv kuiz. Piomezuz zuda gohpomo wulace tar rojgeflu ila kis ohe guzuc ni jehilrij aponhi jawhu."
+  },
+  "apiKey": "358d4c97b00b50739375df0ac8ffd87c08185c807fa169c0c0125c1680d6720b",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
