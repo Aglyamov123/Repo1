@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Austin",
+  "age": 40,
+  "address": {
+    "street": "Unso Pike",
+    "city": "Lulivcir",
+    "state": "RI",
+    "zip": "83482"
+  },
+  "contact": {
+    "phone": "(222) 247-5379",
+    "servicePhone": "800746743"
+  },
+  "birthday": "1985-07-27T04:24:45.704Z",
+  "ip": "170.23.108.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Omeec senofo hajif samu erep cum cok masus rurodof ta ejiegre fin rikoddu avrer giwti evo. La tusenso vo tuzviz fo nitmu kioledow jov kemhisvo abo one hum cavpac kuvve dajzubcuv. Biwgamki biuwre jejvod tiep fiw didoturof ededes aj wagezra zi heconbo nizgef bukaig ane kidvef tahasu dar.",
+    "bio": "Lak zi deg jenuh ogkac fu nugcigihu za cu kutbiwvam ew zevrihmi reztihe egwuc ni hopap. Ono sataw iku gucuj goligbaw odme egiocvu takezdul ug na avejevar uju docuvok. Taf kit jocovim vorkuwuf zoce liziv nic dana usoidavih ho pimsol tukwore raftonwo zen cabu ri zi wucoc."
+  },
+  "apiKey": "049dc2a9206cfe2e26e38b281bbfd5f9b4cb020ccf9b1dfedc6f09ff96937a5e",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
