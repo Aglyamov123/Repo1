@@ -1,0 +1,26 @@
+{
+  "name": "Brian Thornton",
+  "age": 53,
+  "address": {
+    "street": "Weas Center",
+    "city": "Uglojes",
+    "state": "AK",
+    "zip": "68347"
+  },
+  "contact": {
+    "phone": "(636) 383-2830",
+    "servicePhone": "800888571"
+  },
+  "birthday": "2000-06-03T10:47:58.361Z",
+  "ip": "142.43.123.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Navufew gil huzagam majolvu faub gisuf nup danfo pik onmos wi tegfu te nirijnuf. Ji guzatleb tuche tezam wucagdi ezke he pujo nofuw uz mesikopi vedni nev gam ibokahop noh vutozga. Ew egsako duwiwujof vagabo pekdo rag sa kuwwusha fut naev ve buriro zifipip atapa issuf kesoj ez.",
+    "bio": "Icifiim kiru ubmejuj uceip za aretakej wejajo davfaci wuw jazev foragav sefos zolan urtujom laam. Anelajol fa ahiwimi iceebe uriweih udipe poad umboulu no zed pudmeaga ize. Ezpu edu puk tib peuvulag tup po nuiblar lagefili ake mi an hega. Ciwi hazfa ra viwli letrecez sohove ki cen subun buf ejvedgen kuhin vules wobot juh vaok hed dip. Re omecap kegi vuf cukep vodava faabu hiwa vuccaz miiftuf ho duaveij orfurig epuco ugocaive cek."
+  },
+  "apiKey": "82f4b6b4b766b5b39c76c72e96a4a6e32f9ddb315c480187571cea76fd0e5364",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
