@@ -1,0 +1,26 @@
+{
+  "name": "Celia Craig",
+  "age": 27,
+  "address": {
+    "street": "Gaewi Place",
+    "city": "Potucuezi",
+    "state": "DE",
+    "zip": "30559"
+  },
+  "contact": {
+    "phone": "(551) 400-7728",
+    "servicePhone": "800329983"
+  },
+  "birthday": "1962-05-13T12:54:14.354Z",
+  "ip": "82.119.86.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba epozo uh ipe zuzin emzas uteceup ta fe culublid wibo ofeni forigug. Upe se eto dejuplu te gigwo epu bam zoha johu oguro ziz. Saca ipasuuh etuses zojlukvi dufgubfek rel cotimu coluom tu iz et dimlivpib lasowmih.",
+    "bio": "Hijjerdi sevhatup rabizsom wiwaco diwnoji akisot ijlur kafbo hulooci zekohda tudmiv cogtozawa ruwwun. Jemsop sacomum be zove ji sikboava zi jaw sit ijzop buda ja gi mun vakomol omuip. Abwowtu fumeblig pulhe mo malhimap fad buacaen niapusov vot kedihdam ulnabat wuhabro sokcu roun. Tozni ehajo no oba wi lusmifot wuhuw pape zajidac husubik noda leeg do kag nifugifo."
+  },
+  "apiKey": "c63be6a16cbb2e9af92c4a42575d2bb04799e33d6137c4dabb1678ea69527d41",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
