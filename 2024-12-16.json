@@ -1,0 +1,26 @@
+{
+  "name": "Bill Montgomery",
+  "age": 25,
+  "address": {
+    "street": "Dabi Drive",
+    "city": "Pafowbo",
+    "state": "SC",
+    "zip": "96615"
+  },
+  "contact": {
+    "phone": "(282) 942-7511",
+    "servicePhone": "800664537"
+  },
+  "birthday": "2005-10-18T12:00:45.202Z",
+  "ip": "127.23.53.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceggu gu avuhiosi naacalo jidicni nezminis toheriruz mokvomsud lehesajo muvgafoko sef geibepas tat oguzmu ehojija domnu hi bakukror. En ul mosgok vehwog ho temoswaz koc sov tuc hulus du ociweca am rupihop ro hinij puh. Dueki ku ci bic hunuwer jawo uhofarpa sucif natri goajozi renvir wekosle. Rofpinez tugnuh pi vazowpi fadbovhup vob ilzeg zagun zubuw ihafop vak zerpovade zudhuv to kucpuszev.",
+    "bio": "Ezutoel jasaec asolomu dapdop arko onodoz kucetha oh tipif gedci mu naz. Haj kopzac fa babuw peibluj popu amorauka hot mazopmu juevkij tekge tu ekihigzih voroc. Pon pahji ap opi husokbip keodta tammiir ose egkeowo pugugehe gajunjaj zev."
+  },
+  "apiKey": "c039f986eb7864dc4b047f4768b935442ab1bdc739d89074089b33a3dbbc341c",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
